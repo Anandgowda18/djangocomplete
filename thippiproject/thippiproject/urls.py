@@ -23,4 +23,5 @@ urlpatterns = [
     path('thirdpath/', include('thirdapp.urls')),
     path('project1path/', include('project_new.urls')),
     path('employeepath/', include('employeeapp.urls')),
+    path('formspath/', include('formsapp.urls')),
 ]
