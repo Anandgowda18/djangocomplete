@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'thirdapp',
     'project_new',
     'employeeapp',
+    'modelapp',
 ]
 
 MIDDLEWARE = [
